@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage - All Languages -->
+  <url>
+    <loc>https://traderprof.xyz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://traderprof.xyz/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://traderprof.xyz/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://traderprof.xyz/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://traderprof.xyz/"/>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Sections -->
+  <url>
+    <loc>https://traderprof.xyz/#analysis</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://traderprof.xyz/#signals</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://traderprof.xyz/#education</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://traderprof.xyz/#risk</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://traderprof.xyz/#calendar</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://traderprof.xyz/#blog</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://traderprof.xyz/#contact</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Arabic Blog Articles (50) -->
+  <url><loc>https://traderprof.xyz/blog/ar/xauusd-support-resistance</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-trading-beginners-guide</loc><lastmod>2025-01-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/risk-management-gold-trading</loc><lastmod>2025-01-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/rsi-indicator-gold-market</loc><lastmod>2025-01-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/candlestick-patterns-gold</loc><lastmod>2025-01-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-forecast-q1-2025</loc><lastmod>2025-01-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-dollar-inverse-relationship</loc><lastmod>2025-01-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-medium-term-strategy</loc><lastmod>2025-01-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/fed-impact-gold-prices</loc><lastmod>2025-01-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/trading-psychology-emotions</loc><lastmod>2025-01-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-trader-mistakes</loc><lastmod>2025-01-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/fundamental-analysis-gold</loc><lastmod>2025-01-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/fibonacci-levels-gold</loc><lastmod>2025-01-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/elliott-wave-xauusd</loc><lastmod>2025-01-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/trading-journal-importance</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-volatile-markets</loc><lastmod>2024-12-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/physical-gold-vs-cfd</loc><lastmod>2024-12-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/breakout-strategy-gold</loc><lastmod>2024-12-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/timeframes-gold-trading</loc><lastmod>2024-12-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/trading-plan-essentials</loc><lastmod>2024-12-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-safe-haven</loc><lastmod>2024-12-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/moving-averages-xauusd</loc><lastmod>2024-12-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/double-top-bottom-gold</loc><lastmod>2024-12-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/forex-gold-diversification</loc><lastmod>2024-12-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/volume-analysis-gold</loc><lastmod>2024-12-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/algorithmic-trading-gold-impact</loc><lastmod>2024-12-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/risk-reward-ratio-guide</loc><lastmod>2024-12-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/geopolitical-impact-gold</loc><lastmod>2024-12-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/scalping-gold-strategy</loc><lastmod>2024-12-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/liquidity-gold-markets</loc><lastmod>2024-12-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/best-times-gold-trading</loc><lastmod>2024-12-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/bollinger-bands-gold</loc><lastmod>2024-12-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-vs-inflation-history</loc><lastmod>2024-12-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/build-trading-system</loc><lastmod>2024-12-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/psychological-mistakes-gold</loc><lastmod>2024-12-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/news-based-trading-gold</loc><lastmod>2024-12-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/macd-gold-signals</loc><lastmod>2024-12-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/trade-management-entry-exit</loc><lastmod>2024-12-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/trader-vs-investor-gold</loc><lastmod>2024-12-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/professional-trader-roadmap</loc><lastmod>2024-12-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-trading-platforms</loc><lastmod>2024-12-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/consistency-in-trading</loc><lastmod>2024-12-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-currency-correlations</loc><lastmod>2024-12-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/dynamic-support-resistance</loc><lastmod>2024-12-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/price-action-gold</loc><lastmod>2024-12-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-futures-explained</loc><lastmod>2024-12-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/trading-performance-metrics</loc><lastmod>2024-11-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/horizontal-lines-gold-analysis</loc><lastmod>2024-11-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/gold-in-diversified-portfolio</loc><lastmod>2024-11-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/ar/start-gold-trading-today</loc><lastmod>2024-11-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- English Blog Articles (20) -->
+  <url><loc>https://traderprof.xyz/blog/en/xauusd-technical-analysis-key-levels</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/gold-trading-fundamentals</loc><lastmod>2025-01-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/risk-management-forex-guide</loc><lastmod>2025-01-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/candlestick-patterns-gold-charts</loc><lastmod>2025-01-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/gold-market-outlook-2025</loc><lastmod>2025-01-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/support-resistance-gold-trading</loc><lastmod>2025-01-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/trading-psychology-fear-greed</loc><lastmod>2025-01-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/fibonacci-retracements-xauusd</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/moving-averages-gold-trading</loc><lastmod>2024-12-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/economic-calendar-trading</loc><lastmod>2024-12-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/gold-trading-plan</loc><lastmod>2024-12-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/swing-trading-gold</loc><lastmod>2024-12-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/gold-dollar-inverse-relationship</loc><lastmod>2024-12-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/rsi-divergence-gold</loc><lastmod>2024-12-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/position-sizing-guide</loc><lastmod>2024-12-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/macd-indicator-gold</loc><lastmod>2024-12-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/common-gold-trader-mistakes</loc><lastmod>2024-12-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/price-action-xauusd</loc><lastmod>2024-12-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/gold-market-sessions-volatility</loc><lastmod>2024-12-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/en/trading-journal-improvement</loc><lastmod>2024-12-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- French Blog Articles (20) -->
+  <url><loc>https://traderprof.xyz/blog/fr/analyse-technique-xauusd</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/fondamentaux-trading-or</loc><lastmod>2025-01-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/gestion-risques-forex</loc><lastmod>2025-01-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/chandeliers-japonais-or</loc><lastmod>2025-01-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/perspectives-marche-or-2025</loc><lastmod>2025-01-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/support-resistance-trading-or</loc><lastmod>2025-01-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/psychologie-trading-peur-cupidite</loc><lastmod>2025-01-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/fibonacci-retracements-xauusd</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/moyennes-mobiles-or</loc><lastmod>2024-12-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/calendrier-economique-trading</loc><lastmod>2024-12-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/plan-trading-or</loc><lastmod>2024-12-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/swing-trading-or</loc><lastmod>2024-12-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/or-dollar-relation-inverse</loc><lastmod>2024-12-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/divergence-rsi-or</loc><lastmod>2024-12-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/dimensionnement-position</loc><lastmod>2024-12-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/indicateur-macd-or</loc><lastmod>2024-12-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/erreurs-traders-or</loc><lastmod>2024-12-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/price-action-xauusd</loc><lastmod>2024-12-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/sessions-trading-or-volatilite</loc><lastmod>2024-12-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://traderprof.xyz/blog/fr/journal-trading-amelioration</loc><lastmod>2024-12-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>
